@@ -1,0 +1,19 @@
+.banner,.transparent{
+    background-color: transparent;
+}
+
+.banner{
+    width: 45rem;
+    padding-top: 15%;
+    padding-left: 5%;
+}
+
+.banner h3{
+    margin-top: 25px;
+    font-size: 22px;
+}
+
+.banner h1{
+    font-weight: 800;
+    font-size: 50px;
+}
